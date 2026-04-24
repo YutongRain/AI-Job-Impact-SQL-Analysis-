@@ -24,3 +24,4 @@ CREATE TABLE industry_trends (
     job_loss_rate FLOAT,
     year INT
 );
+
