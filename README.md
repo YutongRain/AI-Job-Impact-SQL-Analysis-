@@ -23,25 +23,3 @@ The  analysis includes :
 ## Note 
 This project uses a simulated dataset for learning purposes.
 
- ## Key Findings
-
-### Highest Automation Risk
-| Job | Industry | Risk |
-|-----|----------|------|
-| Factory Worker | Manufacturing | 95% |
-| Cashier | Retail | 91% |
-| Truck Driver | Transportation | 89% |
-| Travel Agent | Tourism | 80% |
-
-### Lowest Automation Risk
-| Job | Industry | Risk |
-|-----|----------|------|
-| Adventure Guide | Tourism | 10% |
-| Nurse | Healthcare | 15% |
-| Teacher | Education | 20% |
-| Tour Guide | Tourism | 20% |
-
-## Conclusions
-- Human interaction jobs are safest
-- Low education jobs face highest risk
-- Tourism is mixed: guides safe, admin roles at risk
